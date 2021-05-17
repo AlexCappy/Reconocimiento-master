@@ -1,0 +1,30 @@
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csprojAssemblyReference.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.Form1.resources
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.Properties.Resources.resources
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.GenerateResource.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.pdb
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.exe
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.pdb
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\bin\Debug\Comandos.exe
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\bin\Debug\Comandos.pdb
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.csprojAssemblyReference.cache
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.Form1.resources
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.Properties.Resources.resources
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.csproj.GenerateResource.cache
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.exe
+C:\Users\wasca\Downloads\Reconocimiento-master\Comandos\obj\Debug\Comandos.pdb
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\bin\Debug\Comandos.exe
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\bin\Debug\Comandos.pdb
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.csprojAssemblyReference.cache
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.Form1.resources
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.Properties.Resources.resources
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.csproj.GenerateResource.cache
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.exe
+C:\Users\ShairPlatinum\Documents\Reconocimiento de voz\Reconocimiento-master\Comandos\obj\Debug\Comandos.pdb
